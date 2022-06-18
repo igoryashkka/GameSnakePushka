@@ -1,0 +1,11 @@
+﻿  game_02.cpp
+C:\Users\igor4\Source\Repos\game_02\game_02.cpp(59,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\igor4\Source\Repos\game_02\game_02.cpp(60,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\igor4\Source\Repos\game_02\game_02.cpp(84,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\igor4\Source\Repos\game_02\game_02.cpp(104,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\igor4\Source\Repos\game_02\game_02.cpp(142,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\igor4\Source\Repos\game_02\game_02.cpp(161,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\igor4\Source\Repos\game_02\game_02.cpp(233,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\igor4\Source\Repos\game_02\game_02.cpp(420,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\igor4\Source\Repos\game_02\game_02.cpp(420,22): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  game_02.vcxproj -> C:\Users\igor4\Source\Repos\game_02\Debug\game_02.exe
