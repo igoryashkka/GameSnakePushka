@@ -1,4 +1,4 @@
-﻿#include <chrono>
+#include <chrono>
 #include <thread>
 #include <stdio.h>
 #include <windows.h>
@@ -7,7 +7,13 @@
 #include <conio.h>
 #include <iostream>
 #include <vector>
-    // --- глобальні змінні --- //
+    //GameSnakePushka Перед використанням програми переконайтесь , що у Вас стоїть англ. клавіатура , без caps lock.
+
+    //Для управління в меню використовуйте : W - вгору , S - вниз , ENTER - наступна опція, ESC - попередня опція.
+
+    //Для управління в ігровому полі використовуйте : W - вгору , S - вниз , A - вліво , S - вправо.
+
+    // --- глобальні змінні та константи --- //
 constexpr auto MAGICNUM = -32;
 
 constexpr auto ENTER = 13;            constexpr auto ESC = 27;
@@ -26,7 +32,7 @@ HANDLE handle = GetStdHandle(STD_OUTPUT_HANDLE);
 
 std::vector<int> records{};
 
-    // --- глобальні змінні --- //
+    // --- глобальні змінніта константи --- //
 
     // --- об'явлення функцій для керування ігровим середовищем --- //
 void startGame();
