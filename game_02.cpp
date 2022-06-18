@@ -112,7 +112,7 @@ public:
                 Color = ColorStandart;
                 break;
             case 1:
-                ColorActive = ColorUkrainian;
+                ColorActive = ColorUkrainianActive;
                 Color = ColorUkrainian;
                 break;
             case 2:
